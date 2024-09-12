@@ -1,6 +1,6 @@
 import React from 'react';
 import CartWidget from './CartWidget';
-import { FaShoePrints } from 'react-icons/fa'; // Importa el ícono que usarás como logo
+import { FaShoePrints } from 'react-icons/fa';
 
 const NavBar = () => {
     return (
